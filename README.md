@@ -4,3 +4,5 @@ Chrome passwords are stored in a directory deep in `%appdata%` in an encrypted f
 As decoy, I have added in a simple python benchmark, that takes the execution speeds of an equasion, and saves it into a file.
 
 This program works best if the `random-extra-stuff` folder is hidden, if this is something that is sent to another user.
+
+I'm new to coding so I am not sure if it is the most efficient way of doing things, but it works, and it works well.
