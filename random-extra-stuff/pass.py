@@ -1,3 +1,5 @@
+#credits to https://www.thepythoncode.com/article/extract-chrome-passwords-python for the code and inspiration
+
 import os
 import json
 import base64
