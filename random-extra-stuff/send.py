@@ -17,7 +17,8 @@ msg['Subject'] = "python-benchmark"
 body = getpass.getuser()
 msg.attach(MIMEText(body, 'plain'))
 filename = "rm.txt"
-attachment = open(os.environ["USERPROFILE"] + "\\Desktop\\isolation\\random-extra-stuff\\rm.txt", "rb")
+path = os.getcwd()
+attachment = open(path, "rb")
 part = MIMEBase('application', 'octet-stream')
 part.set_payload((attachment).read())
 encoders.encode_base64(part)
