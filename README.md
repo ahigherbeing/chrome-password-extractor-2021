@@ -8,6 +8,6 @@ This program works best if the `random-extra-stuff` folder is hidden, if this is
 
 I'm new to coding so I am not sure if it is the most efficient way of doing things, but it works, and it works well.
 
-# note you have to edit send.py to imput the correct email info
+# note you have to edit send.py to input the correct email info
 
 > made for educational purposes only :D
